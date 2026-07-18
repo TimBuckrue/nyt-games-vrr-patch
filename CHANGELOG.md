@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/TimBuckrue/nyt-games-vrr-patch/compare/v1.0.1...v1.1.0) (2026-07-18)
+
+### ✨ New Features
+
+* add optional home-screen optimization patch ([63ac62e](https://github.com/TimBuckrue/nyt-games-vrr-patch/commit/63ac62e927d966a116f9b9eeeade0360715094de))
+
 ## [1.0.1](https://github.com/TimBuckrue/nyt-games-vrr-patch/compare/v1.0.0...v1.0.1) (2026-07-18)
 
 ### 🐛 Bug Fixes
