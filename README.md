@@ -21,7 +21,7 @@ lifts the 60 Hz cap while letting the system's Adaptive Refresh Rate keep scroll
 ## 🩹 Patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/TimBuckrue/nyt-games-vrr-patch/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.0.1](https://github.com/TimBuckrue/nyt-games-vrr-patch/releases/tag/v1.0.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
 <details open>
 <summary>📦 NYT Games&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -33,7 +33,7 @@ lifts the 60 Hz cap while letting the system's Adaptive Refresh Rate keep scroll
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Unlock high refresh rate](#unlock-high-refresh-rate) | Let NYT Games render above 60 fps on 90/120 Hz and variable-refresh-rate displays. The app never opts into high refresh, so Android's power-saving frame-rate override pins it to 60 Hz; this makes each Activity window vote for the panel's top mode, lifting that cap. |  |
+| [Unlock high refresh rate](#unlock-high-refresh-rate) | Let NYT Games render above 60 fps on 90/120 Hz and variable-refresh-rate displays. The app never opts into high refresh, so Android's power-saving frame-rate override pins it to 60 Hz; this makes each Activity window request the display's top refresh rate (a seamless, adaptive-refresh-friendly hint), lifting that cap. |  |
 
 </details>
 

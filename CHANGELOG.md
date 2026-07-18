@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/TimBuckrue/nyt-games-vrr-patch/compare/v1.0.0...v1.0.1) (2026-07-18)
+
+### 🐛 Bug Fixes
+
+* use seamless preferredRefreshRate hint to stop scroll stutter ([0f5bfd1](https://github.com/TimBuckrue/nyt-games-vrr-patch/commit/0f5bfd1627fa5c141ddc974792694617880a1641))
+
 ## 1.0.0 (2026-07-18)
 
 ### 🐛 Bug Fixes
