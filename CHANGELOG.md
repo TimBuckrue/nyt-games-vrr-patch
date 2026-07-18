@@ -1,0 +1,9 @@
+## 1.0.0 (2026-07-18)
+
+### 🐛 Bug Fixes
+
+* make gradlew executable for CI ([e025da2](https://github.com/TimBuckrue/nyt-games-vrr-patch/commit/e025da2e0c2e3e45209ff0b0624927dacbf50dff))
+
+### ✨ New Features
+
+* add NYT Games unlock high refresh rate patch ([e79ee66](https://github.com/TimBuckrue/nyt-games-vrr-patch/commit/e79ee668d7f5c77cae89d89bd545b984fcce85c9))
