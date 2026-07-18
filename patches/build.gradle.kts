@@ -1,14 +1,13 @@
 group = "app.template"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "Tim_Buckrue Patches"
+        description = "Morphe patches for the NYT Games Android app. Unlocks high / variable refresh rate."
+        source = "git@github.com:TimBuckrue/nyt-games-vrr-patch.git"
+        author = "Tim_Buckrue"
         contact = "na"
-        website = "na"
+        website = "https://github.com/TimBuckrue/nyt-games-vrr-patch"
         license = "GPLv3"
     }
 }
